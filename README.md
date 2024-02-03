@@ -1,2 +1,2 @@
 # myfirstwork
-my team priject
+my team project
