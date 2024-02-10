@@ -1,2 +1,2 @@
-# myfirstwork
-my team project
+# MyFirstWork
+My Team Project
